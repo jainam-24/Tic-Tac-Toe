@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-This is a 2 dimensional 9 grid game.
+2 Dimensional "X O" game;
+
+To use the following code, simply run the code in any C++ compiler and follow the instructions on the output terminal.
